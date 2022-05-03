@@ -9,7 +9,7 @@ local Title = Instance.new("TextLabel")
 --Properties:
 
 Main.Name = "Main"
-Main.Parent = game.Players.CoreGUI
+Main.Parent = game.Workspace
 Main.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 GUI.Name = "GUI"
