@@ -18,8 +18,6 @@ GUI.BackgroundColor3 = Color3.fromRGB(67, 67, 67)
 GUI.BorderColor3 = Color3.fromRGB(255, 255, 255)
 GUI.Position = UDim2.new(0.492791623, 0, 0.536779344, 0)
 GUI.Size = UDim2.new(0, 150, 0, 158)
-GUI.Active = true
-GUI.Draggable = true
 
 ESP.Name = "ESP"
 ESP.Parent = GUI
@@ -56,4 +54,6 @@ Title.Size = UDim2.new(0, 150, 0, 37)
 Title.Font = Enum.Font.GothamSemibold
 Title.Text = "The Rake GUI"
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)
-Title.TextSize = 14.000	
+Title.TextSize = 14.000 
+Title.Active = true
+Title.Dragabble = true
