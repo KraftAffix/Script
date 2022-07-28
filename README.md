@@ -1,1 +1,1 @@
-# Lego scripts
+# Scripts for a certain lego game.
