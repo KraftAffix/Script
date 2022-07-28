@@ -1,2 +1,1 @@
-# Script
-Lego scripts
+# Lego scripts
