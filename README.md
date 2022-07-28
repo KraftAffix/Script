@@ -1,2 +1,2 @@
 # Script
-yes
+Lego scripts
